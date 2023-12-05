@@ -1,3 +1,7 @@
+# Important#
+router executable needs to be downloaded separately into the router subdirectory, using
+curl -sSL https://router.apollo.dev/download/nix/latest | sh
+
 # Voyage I: Federation from Day One
 
 Welcome to FlyBy, the companion app of Odyssey Voyage I! You can find the [course lessons and instructions in Odyssey](https://apollographql.com/tutorials/voyage-part1/), Apollo's learning platform.
